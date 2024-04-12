@@ -1,6 +1,6 @@
-**BulkImageDownloader**
+**<h1>Bulk Image Downloader</h1>**
 
-BulkImageDownloader is a powerful tool designed to simplify the process of downloading multiple images from a list of URLs. Whether you're a developer working with image datasets or a content curator gathering visuals for your projects, BulkImageDownloader streamlines the process, saving you time and effort.
+<h3>Bulk Image Downloader is a powerful tool designed to simplify the process of downloading multiple images from a list of URLs. Whether you're a developer working with image datasets or a content curator gathering visuals for your projects, BulkImageDownloader streamlines the process, saving you time and effort.</h3>
 
 ### Features:
 - **Bulk Download:** Download multiple images simultaneously from a list of image URLs.
